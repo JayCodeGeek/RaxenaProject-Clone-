@@ -1459,7 +1459,7 @@ footer .footer1Container{
     color: #FE982F;
 }
 
-.footer2Container .footer2box .subbox1 p{
+.footer2Container .footer2box .subbox1 .s2{
     width: 90%;
 }
 .footer2Container .footer2box .sb1{
@@ -3692,12 +3692,11 @@ footer .footer1Container{
         color: white;
     }
     
-    .footer2Container .footer2box .subbox1 p{
-        width: 90%;
+    .footer2Container .footer2box .subbox1 i{
+        width: 6%;
     }
-    .footer2Container .footer2box .sb1 p{
-        width: 100%;
-        margin-right: 60px;
+    .footer2Container .footer2box .subbox1 .s2{
+        width: 90%;
     }
     .footer2box .listContent{
         font-family: "Poppins", sans-serif;
